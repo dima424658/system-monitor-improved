@@ -1,0 +1,9 @@
+{
+    "extension-id": "@extension_id@",
+    "uuid": "@uuid@",
+    "settings-schema": "@gschemaname@",
+    "name": "@name@",
+    "description": "@description@",
+    "shell-version": [ "@shell_current@" ],
+    "url": "@url@"
+}
