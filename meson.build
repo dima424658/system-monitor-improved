@@ -18,7 +18,7 @@ metadata_conf.set('uuid', uuid)
 metadata_conf.set('gschemaname', 'org.gnome.shell.extensions.' + meson.project_name())
 metadata_conf.set('name', 'System Monitor Improved')
 metadata_conf.set('description', 'Monitor system from the top bar')
-metadata_conf.set('shell_current', '46')
+metadata_conf.set('shell_current', '48')
 metadata_conf.set('url', 'https://gitlab.gnome.org/GNOME/gnome-shell-extensions')
 
 extension_data = []
